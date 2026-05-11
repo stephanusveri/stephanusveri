@@ -3,18 +3,40 @@
 </div>  
   
 
-### <div align="left">Hi 👋, I'm Stephanus Veri Nugroho, A passionate information system student 🚀</div>  
+### <div align="left">Hi 👋 I'm Stephanus Veri Nugroho
+Information Systems Fresh Graduate interested and passionate about System Analysis, Backend Development, and Cloud Technology 🚀</div>  
   
 🇮🇩 <br>
-•	👨🏻‍💻 20 <br>
-• 📖 I’m currently studying Information Systems at Institut Bisnis dan Informatika Kwik Kian Gie  
-• 🌱 I’m currently learning Web Development, Backend Development, Cloud Computing (Google Cloud Platform) and Data Analytics  
-  
-
+•	👨🏻‍💻 Fresh Graduate in Information Systems<br>
+• 🎓 Bachelor of Information Systems from Institut Bisnis dan Informatika Kwik Kian Gie  
+• 🌱 Interested in System Analysis, Backend Development, Cloud Computing (Google Cloud Platform), and Data Analytics
+• 🚀 Passionate about business process design, database systems, and technology solutions
 <br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
+
+### System Analyst & Database  
+<div align="center">  
+<a href="https://www.oracle.com/database/" target="_blank">
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="50" />
+</a>  
+<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="50" />
+</a>  
+<a href="https://www.mysql.com/" target="_blank">
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+</a>  
+<a href="https://www.postman.com/" target="_blank">
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" />
+</a>  
+<a href="https://www.visual-paradigm.com/" target="_blank">
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/visual-paradigm.svg" alt="Visual Paradigm" height="50" />
+</a>  
+<a href="https://app.diagrams.net/" target="_blank">
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/drawio.svg" alt="Draw.io" height="50" />
+</a>  
+</div>
 
 ### Frontend  
 <div align="center">  
