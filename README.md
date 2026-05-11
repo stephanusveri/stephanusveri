@@ -40,7 +40,7 @@ Information Systems Fresh Graduate interested and passionate about System Analys
 
 ### Backend  
 <div align="center">  
-### Backend  
+ 
 <div align="center">  
 <img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="30" />  
