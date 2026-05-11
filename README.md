@@ -18,25 +18,15 @@ Information Systems Fresh Graduate interested and passionate about System Analys
 
 ### System Analyst & Database  
 <div align="center">  
-<a href="https://www.oracle.com/database/" target="_blank">
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="50" />
-</a>  
-<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="50" />
-</a>  
-<a href="https://www.mysql.com/" target="_blank">
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-</a>  
-<a href="https://www.postman.com/" target="_blank">
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" />
-</a>  
-<a href="https://www.visual-paradigm.com/" target="_blank">
-<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/visual-paradigm.svg" alt="Visual Paradigm" height="50" />
-</a>  
-<a href="https://app.diagrams.net/" target="_blank">
-<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/drawio.svg" alt="Draw.io" height="50" />
-</a>  
-</div>
+<img style="margin: 10px" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" height="30" />
+<img style="margin: 10px" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" height="30" />
+<img style="margin: 10px" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30" />
+<img style="margin: 10px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="30" />
+<img style="margin: 10px" src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="Draw.io" height="30" />
+<img style="margin: 10px" src="https://img.shields.io/badge/Visual%20Paradigm-0078D7?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Paradigm" height="30" />
+<img style="margin: 10px" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="30" />
+<img style="margin: 10px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30" />
+</td><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
